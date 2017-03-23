@@ -2,7 +2,7 @@ package Tolesco;
 
 import java.util.*;
 
-public class Comparar_Cadenas {
+public class Anagrama {
 
 	public static void main(String[] args){
 		
